@@ -1,0 +1,8 @@
+{
+    "infinite": {
+        "prizeType": "query",
+        "itemRequest": "RANDOM_ITEMS (O) 899 902",
+        "quantity": 100,
+        "perItemCondition": ""
+    }
+}

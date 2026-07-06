@@ -1,0 +1,11 @@
+{
+    "Name": "New Prizes Ahoy",
+    "Author": "Intrahype",
+    "Version": "0.0.1",
+    "Description": "New Prizes for machine",
+    "UniqueID": "intrahype.NewPrizesAhoy",
+    "UpdateKeys": [],
+    "ContentPackFor": {
+        "UniqueID": "tomokisan.prizeMachineCustomPrizes"
+    }
+}
